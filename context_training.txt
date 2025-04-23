@@ -1,0 +1,22 @@
+# Strategic Contexts for Laptop Launch Exercise
+
+## Set A: Market Environments
+1. Emerging market with limited internet infrastructure but rapidly growing middle class (e.g., rural India)
+2. Highly regulated government sector with strict security and procurement requirements
+3. Education-focused environment with tight budgets and durability concerns (K-12 schools)
+4. Silicon Valley tech hub with affluent early adopters and intense competition
+5. Manufacturing industry requiring ruggedized computing in harsh physical conditions
+
+## Set B: Technology Landscapes
+1. Post-pandemic remote work environment with high demand for video conferencing
+2. Gaming community with focus on high-performance graphics and customization
+3. Creative professional market dominated by a single competitor (Apple)
+4. Developing region with unreliable electricity and connectivity challenges
+5. Privacy-focused European market with strict data protection regulations
+
+## Set C: Disruption Scenarios
+1. Market experiencing chip shortage and supply chain disruptions
+2. Region transitioning to 5G with new connectivity opportunities
+3. Sustainability-conscious market with strong environmental regulations
+4. Emerging AI capabilities creating new use cases for computing
+5. Economic downturn causing consumers to prioritize value and longevity
